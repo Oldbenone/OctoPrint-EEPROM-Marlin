@@ -6,7 +6,6 @@ This is maintained by TH3D for their EZPi kits.
 
 ## Setup
 
-Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
-or manually using this URL:
+Install manually using this URL since we are not listed in the official plugin database:
 
     https://github.com/houseofbugs/OctoPrint-EEPROM-Marlin/archive/master.zip
